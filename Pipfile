@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+statsmodels = "==0.13.2"
 
 [dev-packages]
 ipykernel = "*"
