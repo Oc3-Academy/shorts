@@ -6,6 +6,14 @@ name = "pypi"
 [packages]
 pandas = "*"
 statsmodels = "==0.13.2"
+tqdm = "*"
+jupyter = "*"
+ipywidgets = "*"
+seaborn = "*"
+pillow = "*"
+qrcode = "*"
+matplotlib = "*"
+pyzbar = "*"
 
 [dev-packages]
 ipykernel = "*"
