@@ -15,6 +15,7 @@ qrcode = "*"
 matplotlib = "*"
 pyzbar = "*"
 scikit-learn = "*"
+ipython-sql = "*"
 
 [dev-packages]
 ipykernel = "*"
