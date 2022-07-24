@@ -16,6 +16,11 @@ matplotlib = "*"
 pyzbar = "*"
 scikit-learn = "*"
 ipython-sql = "*"
+plotly = "*"
+faker = "*"
+pyarrow = "*"
+manimpango = "*"
+manimgl = "*"
 
 [dev-packages]
 ipykernel = "*"
