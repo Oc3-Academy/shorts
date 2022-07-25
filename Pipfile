@@ -21,6 +21,7 @@ faker = "*"
 pyarrow = "*"
 manimpango = "*"
 manimgl = "*"
+missingno = "==0.5"
 
 [dev-packages]
 ipykernel = "*"
